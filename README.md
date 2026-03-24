@@ -3,7 +3,7 @@
 A clean, modern, and responsive Personal Portfolio Website built to showcase my skills, projects, and experience as a Software Developer.
 
 🌐 Live Website:
-👉 https://your-username.github.io/
+👉https://personalportfolio-sepia-one.vercel.app/
 
 📸 Website Preview
 <p align="center"> <img src="assets/img/preview.JPG" alt="Portfolio Preview" width="800"/> </p>
